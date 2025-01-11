@@ -2,7 +2,7 @@
 self.__uv$config = {
     prefix: '/uv/service/',
 
-    bare: 'https://solitary-haze-aa1f.projectorsum.workers.dev/',
+    bare: 'https://bare.benrogo.net',
     
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
